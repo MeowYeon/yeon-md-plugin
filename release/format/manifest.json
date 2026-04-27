@@ -1,0 +1,9 @@
+{
+  "id": "format",
+  "name": "Format",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Apply personal Markdown formatting rules with manual and close-time triggers.",
+  "author": "ghp",
+  "isDesktopOnly": false
+}

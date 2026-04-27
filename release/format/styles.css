@@ -1,0 +1,33 @@
+.format-preview-modal .format-preview-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  max-height: 24rem;
+  overflow-y: auto;
+}
+
+.format-preview-modal .format-preview-item {
+  padding: 0.75rem;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 0.5rem;
+  background: var(--background-secondary);
+}
+
+.format-preview-modal .format-preview-line-number {
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.format-preview-modal pre {
+  margin: 0.25rem 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.format-preview-modal .format-preview-before {
+  color: var(--text-muted);
+}
+
+.format-preview-modal .format-preview-after {
+  color: var(--text-normal);
+}

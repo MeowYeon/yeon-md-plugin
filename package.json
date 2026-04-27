@@ -1,0 +1,9 @@
+{
+  "name": "obsidian-format-plugin",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Obsidian plugin implementing custom Markdown formatting rules.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
